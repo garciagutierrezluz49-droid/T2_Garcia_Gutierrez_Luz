@@ -1,0 +1,1 @@
+package com.t2; public class Util { public static String saludo(){ return "Hola T2 - Garcia Gutierrez Luz"; } }
