@@ -6,3 +6,6 @@ Descripcion: Repositorio para evaluacion T2 de control de versiones con Git y Gi
 
 ## Evidencia T2
 Evaluacion 02 - Lenguaje de Programacion II - T4AO 00 - Garcia Gutierrez Luz - 07/10/2026
+
+## Control de cambios
+Se gestionaron cambios en Working Directory y Staging Area para T2 LPII.
